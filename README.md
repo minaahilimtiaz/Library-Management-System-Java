@@ -56,7 +56,7 @@ A library management system implement using concepts of OOP in JAVA, GUI desgine
   -Create a new project using netbeans and include these files in source code folder.
   
   
-  -The include sqljdc library.
+  -The include sqljdc driver.
   
   
   -Change the connection string in **dbConnectivity.java** according to your system.
