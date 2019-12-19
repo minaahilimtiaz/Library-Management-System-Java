@@ -49,9 +49,12 @@ A library management system implement using concepts of OOP in JAVA, GUI desgine
    
    
   **Run this project**
+  
   -For running this project , you must have installed JDK and NetBeans.
   
+  
   -Create a new project using netbeans and include these files in source code folder.
+  
   
   -The include sqljdc library.
   
@@ -66,7 +69,7 @@ A library management system implement using concepts of OOP in JAVA, GUI desgine
   
   For getting in touch or any help follow [Minahil Imtiaz](https://www.linkedin.com/in/minahilimtiaz/)
   
-  If this project helped you, then follow me on [@minaahilimtiaz](https://www.linkedin.com/in/minahilimtiaz/) and 🌟 [this repository](https://github.com/minaahilimtiaz/Library-Management-System-Java/)
+  If this project helped you, then follow me on [@minaahilimtiaz](https://github.com/minaahilimtiaz/) and 🌟 [this repository](https://github.com/minaahilimtiaz/Library-Management-System-Java/)
   
   
  
